@@ -3,7 +3,7 @@ Plotting gravitropism degrees of roots
 
 A simple Python script to plot root gravitropic response. The root angles are plotted on circular histograms at 30° intervals. 
 
-Similar gravitropism plots have been used in Hayashi _et al._ PNAS 2010.
+Similar gravitropism plots have been used in [Hayashi _et al._ PNAS 2008](http://www.pnas.org/content/105/14/5632.abstract).
 
 ##Example
 Plot data in the demo file 'demodegrees.txt' with seperators using label and output filename prefix 'First'.
